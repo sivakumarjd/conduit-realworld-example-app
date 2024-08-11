@@ -121,7 +121,7 @@ The following command will build the production version of the app:
 ```bash
 npm run start
 ```
-
+test the application
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
